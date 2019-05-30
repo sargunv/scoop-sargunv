@@ -1,0 +1,9 @@
+{
+    "homepage":  "https://gitlab.com/sargunv-mc-mods/modsman",
+    "license":  "Apache-2.0",
+    "url":  "https://dev.azure.com/sargunvohra/modsman/_apis/build/builds/37/artifacts?artifactName=modsman-cli-0.20.1\u0026api-version=5.0\u0026%24format=zip#/modsman-cli.zip",
+    "hash":  "136609552bbddbe3dbbd64c6a7731e8ff7cb8fcf8b92532172142f3b0d3d9da2",
+    "version":  "0.20.1",
+    "extract_dir": "modsman-cli-0.20.1",
+    "bin":  "bin\\modsman-cli.bat"
+}
