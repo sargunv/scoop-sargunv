@@ -1,9 +1,9 @@
 {
     "homepage":  "https://gitlab.com/sargunv-mc-mods/modsman",
     "license":  "Apache-2.0",
-    "url":  "https://github.com/sargunv/modsman/releases/download/0.22.0/modsman-cli-0.22.0.zip",
-    "hash":  "66a63a05e7b2068a8e0480ebbb29a552f751c1c504f1982ae392ea3e255dba83",
-    "version":  "0.22.0",
-    "extract_dir": "modsman-cli-0.22.0",
+    "url":  "https://github.com/sargunv/modsman/releases/download/0.30.0/modsman-cli-0.30.0.zip",
+    "hash":  "83d43a470be0f37639cc6da9bb59a4a1fc6331c19fb6c4a58048e0582fc32b89",
+    "version":  "0.30.0",
+    "extract_dir": "modsman-cli-0.30.0",
     "bin":  "bin\\modsman-cli.bat"
 }
