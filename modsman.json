@@ -4,6 +4,6 @@
     "url":  "https://github.com/sargunv/modsman/releases/download/0.32.0/modsman-cli-0.32.0.zip",
     "hash":  "799cc4c965c2a1cc6253095887424276fafc25abf2323f4c867e0c29cc0189e8",
     "version":  "0.32.0",
-    "extract_dir": "modsman-cli-0.30.1",
+    "extract_dir": "modsman-cli-0.32.0",
     "bin":  "bin\\modsman-cli.bat"
 }
